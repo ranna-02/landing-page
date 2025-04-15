@@ -1,6 +1,6 @@
-const Sobremim = () => {
+const About = () => {
     return (
-      <section id="sobremim" className="bg-gray-900 text-white h-screen flex items-center justify-center">
+      <section id="about" className="bg-gray-900 text-white h-screen flex items-center justify-center">
         <div className="text-center px-5">
           <img
             src="./Ranna.jpg" // A imagem deve estar na pasta public
@@ -23,5 +23,5 @@ Acredito que a tecnologia deve ser intuitiva, eficiente e centrada no usuário. 
     );
   };
   
-  export default Sobremim;
+  export default About;
   
