@@ -36,6 +36,11 @@ const Header = () => {
                   Contato
                 </a>
               </li>
+              <li>
+                <a href="#about" className="hover:text-gray-300">
+                  Sobre
+                </a>
+              </li>
             </ul>
           </nav>
         </div>
